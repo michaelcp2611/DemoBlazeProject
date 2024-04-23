@@ -1,0 +1,8 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Ά¬¤ξ1J$47aac742-5306-4ad2-82a2-feb790f35fb1
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ϊξ‰Ή8±Ϋ«¤ξ1J$ac218881-fa6b-45b8-a2f5-4a39abb3dc85
+}
+java:S1118":Add a private constructor to hide the implicit public one.(®ο³8ΌΫ«¤ξ1J$53c9a9dd-4c5a-45b6-9213-b76d9d1cbd7a
+¦
+java:S2142
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(²ύ…¦ϋÿÿÿÿ8«¬¤ξ1J$5ffe54ea-4089-49f2-9f19-e9f64d4a240b
